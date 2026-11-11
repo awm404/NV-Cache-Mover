@@ -10,7 +10,7 @@
     <AssemblyName>NvidiaCacheMover</AssemblyName>
     <RootNamespace>NvidiaCacheMover</RootNamespace>
     <ApplicationIcon>Assets\app.ico</ApplicationIcon>
-    <Version>2.0.0</Version>
+    <Version>1.0.0</Version>
     <Title>NVIDIA Cache Mover</Title>
     <Description>Move and link NVIDIA &amp; DirectX shader caches to any drive without Safe Mode or rebooting.</Description>
   </PropertyGroup>

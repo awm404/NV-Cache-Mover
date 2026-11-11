@@ -1,11 +1,14 @@
 # NVIDIA Cache Mover
 
+[![Release](https://img.shields.io/github/v/release/awm404/NV-Cache-Mover?style=flat-square&color=76B900)](https://github.com/awm404/NV-Cache-Mover/releases/latest)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-0078D4?style=flat-square)
 ![Runtime](https://img.shields.io/badge/.NET-9.0%20WPF-512BD4?style=flat-square)
 ![Privileges](https://img.shields.io/badge/Admin%20%2F%20Safe%20Mode-Not%20Required-76B900?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-94A3B8?style=flat-square)
 
 **Relocate NVIDIA & DirectX shader and driver-installer caches off your `C:` drive to any NTFS volume — live, update-proof, and without booting into Safe Mode.**
+
+![NVIDIA Cache Mover Screenshot](Assets/screenshot.jpg)
 
 ---
 
